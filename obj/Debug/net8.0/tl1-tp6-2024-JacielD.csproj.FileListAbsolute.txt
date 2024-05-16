@@ -1,0 +1,15 @@
+C:\Tp_06\tl1-tp6-2024-JacielD\bin\Debug\net8.0\tl1-tp6-2024-JacielD.exe
+C:\Tp_06\tl1-tp6-2024-JacielD\bin\Debug\net8.0\tl1-tp6-2024-JacielD.deps.json
+C:\Tp_06\tl1-tp6-2024-JacielD\bin\Debug\net8.0\tl1-tp6-2024-JacielD.runtimeconfig.json
+C:\Tp_06\tl1-tp6-2024-JacielD\bin\Debug\net8.0\tl1-tp6-2024-JacielD.dll
+C:\Tp_06\tl1-tp6-2024-JacielD\bin\Debug\net8.0\tl1-tp6-2024-JacielD.pdb
+C:\Tp_06\tl1-tp6-2024-JacielD\obj\Debug\net8.0\tl1-tp6-2024-JacielD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tp_06\tl1-tp6-2024-JacielD\obj\Debug\net8.0\tl1-tp6-2024-JacielD.AssemblyInfoInputs.cache
+C:\Tp_06\tl1-tp6-2024-JacielD\obj\Debug\net8.0\tl1-tp6-2024-JacielD.AssemblyInfo.cs
+C:\Tp_06\tl1-tp6-2024-JacielD\obj\Debug\net8.0\tl1-tp6-2024-JacielD.csproj.CoreCompileInputs.cache
+C:\Tp_06\tl1-tp6-2024-JacielD\obj\Debug\net8.0\tl1-tp6-2024-JacielD.sourcelink.json
+C:\Tp_06\tl1-tp6-2024-JacielD\obj\Debug\net8.0\tl1-tp6-2024-JacielD.dll
+C:\Tp_06\tl1-tp6-2024-JacielD\obj\Debug\net8.0\refint\tl1-tp6-2024-JacielD.dll
+C:\Tp_06\tl1-tp6-2024-JacielD\obj\Debug\net8.0\tl1-tp6-2024-JacielD.pdb
+C:\Tp_06\tl1-tp6-2024-JacielD\obj\Debug\net8.0\tl1-tp6-2024-JacielD.genruntimeconfig.cache
+C:\Tp_06\tl1-tp6-2024-JacielD\obj\Debug\net8.0\ref\tl1-tp6-2024-JacielD.dll
